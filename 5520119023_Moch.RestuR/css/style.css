@@ -1,0 +1,16 @@
+/* Navbar */
+.navbar-brand {
+    font-family: Viga;
+    font-size: 32px;
+}
+
+.jumbotron img{
+	width: 25%;
+}
+footer{
+	min-height: 50px;
+	padding-top: 15px;
+}
+body{
+	margin-top: 50px;
+}
