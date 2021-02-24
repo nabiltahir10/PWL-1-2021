@@ -1,0 +1,84 @@
+.navbar{
+    height: 100px;
+}
+
+.container-fluid{
+    margin-left: 50px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-family: Courier;
+    font-weight: 900;
+}
+
+.btn-group{
+    margin-left: 55%;
+}
+
+.navbar-nav{
+    margin-left: 10px;
+}
+
+.card{
+    margin-left: 10rem;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.body-content{
+    background-color: gray; 
+    padding: 2px;
+    max-height: max-content;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+.konten{
+    padding: 20px;
+    margin-top: 70px;
+}
+
+.footer{
+    height: 620px;
+    background-color:darkgray;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+.copyright{
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 17px;
+    font-family:monospace;
+    margin-left: 30%;
+}
+
+.profile{
+    padding-top: 5px;
+    position: absolute;
+    margin-left: 20%;
+    text-align: center;
+    width: 35rem;
+}
+
+.sosmed{
+    width: 40rem;
+    height: 5rem;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+
+.icon-sosmed{
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+    position: static;
+}
